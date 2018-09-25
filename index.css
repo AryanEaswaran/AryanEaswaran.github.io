@@ -1,0 +1,29 @@
+body {background color: rebeccapurple}
+
+#scar { text-align: center;
+    font-size: 120;
+    font-family: "Helvetica", Helv, sans-serif;
+}
+
+#bar {text-align: center;
+    font-size: 42;
+    font-family: "Helvetica", Helv, sans-serif;
+}
+/*BG for nav*/
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/*badass nav*/
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 87.89px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Helvetica", Helv, sans-serif;
+
+
+}
